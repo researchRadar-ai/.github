@@ -10,8 +10,8 @@ Moreover, our system customizes its recommendations by analyzing each researcher
 ## ResearchRadar.ai's Features:
 - Using our AI-powered recommendation system, we help users find high-quality, relevant papers
 - After a user finishes reading a paper, our system will recommend new research papers
+- Search papers with AI reordering using Metaphor’s API
 - Save research papers to a reading list
-- Search papers using the Metaphor API
 - See important keywords for each paper based on the YAKE Python library
 - Annotate and view PDFs
 - Create multiple projects to maintain an organized reading experience
