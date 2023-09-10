@@ -1,4 +1,5 @@
 # ResearchRadar.ai
+### Your research. Now, with AI.
 
 ## Our inspiration
 Every week, researchers invest significant time staying updated with the latest scientific publications. The painstaking process of searching for relevant papers diverts valuable time from their core research activities, potentially hindering scientific advancement. Over a year, this translates into considerable time and financial inefficiencies.
@@ -20,7 +21,10 @@ Moreover, our system customizes its recommendations by analyzing each researcher
 AI-powered Recommendation system: We utilized the state-of-the-art “Neural Collaborative Filtering” algorithm through a Python library, which extends matrix factorization using a multi-layer perceptron. This approach enables us to recommend papers that align with the broader consensus of the research community.
 
 Frontend: JavaScript, Chakra UI, React.js, Node.js
+
 Backend: Python, Metaphor API, Microsoft Recommender library, PyTorch, Flask, YAKE (Yet Another Keyword Extractor Python library), Git
+
+
 
 
 
