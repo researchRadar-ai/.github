@@ -19,23 +19,6 @@ Moreover, our system customizes its recommendations by analyzing each researcher
 ## Tech Stack
 AI-powered Recommendation system: We utilized the state-of-the-art “Neural Collaborative Filtering” algorithm through a Python library, which extends matrix factorization using a multi-layer perceptron. This approach enables us to recommend papers that align with the broader consensus of the research community.
 
-**Frontend:** [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Chakra UI](https://chakra-ui.com/), [Next.js](https://nextjs.org/), [React.js](https://react.dev/), 
+**Frontend:** [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Chakra UI](https://chakra-ui.com/), [Next.js](https://nextjs.org/), [React.js](https://react.dev/)
 
 **Backend:** [Python](https://www.python.org/), [Metaphor API](https://metaphor.systems/), [Microsoft Recommender library](https://github.com/recommenders-team/recommenders), [PyTorch](https://pytorch.org/), [Flask](https://flask.palletsprojects.com/en/2.3.x/), [YAKE (Yet Another Keyword Extractor Python library)](https://liaad.github.io/yake/), [Git](https://git-scm.com/)
-
-## ResearchRadar.ai's Infrastructure
-
-
-
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
