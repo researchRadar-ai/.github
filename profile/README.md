@@ -66,8 +66,6 @@ AI-powered Recommendation system: We utilized the state-of-the-art “Neural Col
       <a href="https://www.linkedin.com/in/dkcn/">
         <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
       </a>
-    <td>
-    </td>
     </td>
     <td>
       <a href="https://www.linkedin.com/in/kingsley-zhong/">
