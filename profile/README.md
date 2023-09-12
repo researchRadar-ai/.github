@@ -1,4 +1,6 @@
 <img width="480" alt="ResearchRadarai logo" src="https://github.com/researchRadar-ai/.github/assets/57195399/3f425a75-ec4f-4498-a6bf-ea2665fafefd">
+ResearchRadar.ai is a web application submitted as an entry at PennApps XXIV, the prestigious collegiate hackathon hosted by the University of Pennsylvania in Fall 2023 which features 36 consecutive hours of in-person team coding. Our project was honored to received the ** Best Design Hack ** award out of 114 total entries.
+
 
 ## Our inspiration
 Every week, researchers invest significant time staying updated with the latest scientific publications. The painstaking process of searching for relevant papers diverts valuable time from their core research activities, potentially hindering scientific advancement. Over a year, this translates into considerable time and financial inefficiencies.
