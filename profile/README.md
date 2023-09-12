@@ -7,7 +7,7 @@ We believe that by leveraging artificial intelligence, our project can profoundl
 
 Moreover, our system customizes its recommendations by analyzing each researcher's reading history, guaranteeing both relevance and significance. Notably, our platform delivers recommendations on a per-project basis. This means that even if a researcher is juggling multiple projects simultaneously, our recommendations remain distinct and organized, preventing any overlap or confusion.
 
-## ResearchRadar.ai's Features:
+## ResearchRadar.ai's Features, Current & Planned:
 - Using our AI-powered recommendation system, we help users find high-quality, relevant papers
 - After a user finishes reading a paper, our system will recommend new research papers
 - Search papers with AI reordering using Metaphor’s API
@@ -22,3 +22,62 @@ AI-powered Recommendation system: We utilized the state-of-the-art “Neural Col
 **Frontend:** [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Chakra UI](https://chakra-ui.com/), [Next.js](https://nextjs.org/), [React.js](https://react.dev/)
 
 **Backend:** [Python](https://www.python.org/), [Metaphor API](https://metaphor.systems/), [Microsoft Recommender library](https://github.com/recommenders-team/recommenders), [PyTorch](https://pytorch.org/), [Flask](https://flask.palletsprojects.com/en/2.3.x/), [YAKE (Yet Another Keyword Extractor Python library)](https://liaad.github.io/yake/), [Git](https://git-scm.com/)
+
+
+## Contributors
+<table>
+  <tr>
+    <th>Binh Nguyen</th>
+    <th>Derek Chen</th>
+    <th>Kingsley Zhong</th>
+    <th>Ziping Ye</th>
+  </tr>
+  <tr>
+    <td>UX Designer, Frontend Engineer</td>
+    <td>Project Manager, Full Stack</td>
+    <td>Backend Engineer</td>
+    <td>ML Engineer</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/kbinhnguyen">
+        <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/drkchn">
+        <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/kingsleyzhong">
+        <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Ziping-Ye">
+        <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td />
+    <td>
+      <a href="https://www.linkedin.com/in/dkcn/">
+        <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+    <td>
+    </td>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/kingsley-zhong/">
+        <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/zipingye/">
+        <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
